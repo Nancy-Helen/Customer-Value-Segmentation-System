@@ -146,7 +146,7 @@ streamlit run app.py
 
 ## Author
 
-**Mansi M**
+**A Nancy Helen**
 
-- LinkedIn: https://linkedin.com/in/mansi-m-78490a2ba
-- GitHub: https://github.com/mansim20
+- LinkedIn: https://www.linkedin.com/in/lnhnancyraj/
+- GitHub: https://github.com/Nancy-Helen
